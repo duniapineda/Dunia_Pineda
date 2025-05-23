@@ -1,0 +1,10 @@
+E:\Trabajos 2\C#28\C#28\bin\Debug\C#28.exe.config
+E:\Trabajos 2\C#28\C#28\bin\Debug\C#28.exe
+E:\Trabajos 2\C#28\C#28\bin\Debug\C#28.pdb
+E:\Trabajos 2\C#28\C#28\obj\Debug\C#28.csproj.AssemblyReference.cache
+E:\Trabajos 2\C#28\C#28\obj\Debug\C_28.Form1.resources
+E:\Trabajos 2\C#28\C#28\obj\Debug\C_28.Properties.Resources.resources
+E:\Trabajos 2\C#28\C#28\obj\Debug\C#28.csproj.GenerateResource.cache
+E:\Trabajos 2\C#28\C#28\obj\Debug\C#28.csproj.CoreCompileInputs.cache
+E:\Trabajos 2\C#28\C#28\obj\Debug\C#28.exe
+E:\Trabajos 2\C#28\C#28\obj\Debug\C#28.pdb
